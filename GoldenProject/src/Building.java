@@ -4,7 +4,7 @@ public class Building {
 
   public Building (String name)
    {
-	 this.name=name;
+	 this.name=george;
    }
 
  public String getName() {
